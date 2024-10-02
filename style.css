@@ -35,14 +35,14 @@ body{
 
 @media(max-width:960px){
     .container{
-        width: fit-content;
-        height: fit-content;
+        width: 90%;
+        height: 90%;
     }
 }
 
 @media(max-width:600px){
     .container{
-        width: fit-content;
-        height: fit-content;
+        width: 60%;
+        height: 60%;
     }
 }
